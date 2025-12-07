@@ -876,9 +876,6 @@ img {
 
 /* For medium devices */
 @media screen and (max-width: 540px) {
-  .nav__menu {
-    width: 50%;
-  }
   .home__container,
   .reviews__container {
     grid-template-columns: 380px;
